@@ -1,7 +1,6 @@
 {
   "name": "11ty-2961",
   "version": "1.0.0",
-  "description": "",
   "main": "eleventy.config.js",
   "scripts": {
     "build": "eleventy",
@@ -12,5 +11,7 @@
   "license": "MPL-2.0",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1"
-  }
+  },
+  "repository": "pdehaan/11ty-2961",
+  "description": ""
 }
